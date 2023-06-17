@@ -13,6 +13,7 @@ Step 3: Run the exe file (will take some time first time because it will be down
 Step 4: Upload the csv/xlsx file containing Tweets (Tweet_ID, Tweet_Text, Media_URL) (example file is given in data.xlsx)
 
 Step 5: Annotate the data with the following process:
+
         Text annotation (semi-automatic):
         a. Choose, if the post is relevant or irrelevant
         b. If relevant, look at the automatic target, sentiment suggestions provided by system.
