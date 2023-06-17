@@ -1,19 +1,16 @@
 # MDAT
-A multimodal data annotation tool
+A multimodal data annotation tool: For annotation of multimodal (text and image) Twitter posts.
 
-Step 1. Please install the following requirements (These are the recommended requirements, may work on new versions too):
-        Python == 3.10.10
-        Spacy == 2.3.9
-        Neuralcoref == 4.0 (Install from github repository (https://github.com/Sivaneshmsc/neuralcoref))
-        en-core-web-lg == 2.3.1
-        Pandas == 1.5.3
+# How to use
+Using MDAT is simple, make sure you are connected to the internet. Follow the steps below:
 
-Step 2. (Continue...)
+Step 1: Go to the link () and download the MDAT.rar file
 
-Step 3. (Continue...)
+Step 2: Locate and extract the file somewhere in PC.
 
-Step 4. (Continue...)
+Step 3: Run the exe file (will take some time first time because it will be downloading some important modules)
 
-Step 5. (Continue...)
+Step 4: Upload the csv file containing Tweets (Tweet_id, Tweets, Image link)
 
-Step 6. (Continue...)
+Step 5: Annotate the data and save it.
+
