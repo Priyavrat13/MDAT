@@ -10,7 +10,7 @@ Step 2: Locate and extract the file somewhere in PC.
 
 Step 3: Run the exe file (will take some time first time because it will be downloading some important modules)
 
-Step 4: Upload the csv/xlsx file containing Tweets (Tweet_ID, Tweet_Text, Media_URL) (example file is given in data.xlsx)
+Step 4: Upload the xlsx file containing Tweets (Tweet_ID, Tweet_Text, Media_URL) (example file is given in data.xlsx)
 
 Step 5: Annotate the data with the following process:
 
